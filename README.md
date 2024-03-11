@@ -10,3 +10,4 @@
 8. [Create Sales Order Table](./scripts/8-create-sales-order-table.sql)
 9. [Create Sales Item Table](./scripts/9-create-sales-item-table.sql)
 10. [Alter Sales Item Table](./scripts/10-alter-sales-item-table.sql)
+11. [Alter Transaction Table](./scripts/11-alter-transaction-table.sql)
