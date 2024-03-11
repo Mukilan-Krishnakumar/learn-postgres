@@ -6,3 +6,4 @@
 4. [Create Sales Person Table](./scripts/4-create-salesperson-db.sql)
 5. [Create Product Type Table](./scripts/5-product-type.sql)
 6. [Create Product Table](./scripts/6-create-product-table)
+7. [Create Item Table](./scripts/7-create-item-table.sql)
