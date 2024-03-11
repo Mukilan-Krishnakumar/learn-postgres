@@ -4,4 +4,5 @@
 2. [Add Data to Customer Table](./scripts/2-insert-customers.sql)
 3. [Add Custom Data Type](./scripts/3-create-custom-datatype.sql)
 4. [Create Sales Person Table](./scripts/4-create-salesperson-db.sql)
-5. [Add Product Type](./scripts/5-product-type.sql)
+5. [Create Product Type Table](./scripts/5-product-type.sql)
+6. [Create Product Table](./scripts/6-create-product-table)
