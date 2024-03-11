@@ -7,3 +7,4 @@
 5. [Create Product Type Table](./scripts/5-product-type.sql)
 6. [Create Product Table](./scripts/6-create-product-table)
 7. [Create Item Table](./scripts/7-create-item-table.sql)
+8. [Create Sales Order Table](./scripts/8-create-sales-order-table.sql)
