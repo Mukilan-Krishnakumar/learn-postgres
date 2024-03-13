@@ -11,3 +11,4 @@
 9. [Create Sales Item Table](./scripts/9-create-sales-item-table.sql)
 10. [Alter Sales Item Table](./scripts/10-alter-sales-item-table.sql)
 11. [Alter Transaction Table](./scripts/11-alter-transaction-table.sql)
+12. [Insert Product Type Table](./scripts/12-insert-proudct-type.sql)
