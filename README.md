@@ -12,3 +12,4 @@
 10. [Alter Sales Item Table](./scripts/10-alter-sales-item-table.sql)
 11. [Alter Transaction Table](./scripts/11-alter-transaction-table.sql)
 12. [Insert Product Type Table](./scripts/12-insert-proudct-type.sql)
+13. [Insert Product Table](./scripts/13-insert-product-table.sql)
