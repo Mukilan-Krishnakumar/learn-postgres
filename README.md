@@ -19,3 +19,4 @@
 17. [Insert Sales Person](./scripts/17-insert-sales-person.sql)
 18. [Insert Items](./scripts/18-insert-items.sql)
 19. [Alter Sales Order](./scripts/19-alter-sales-order.sql)
+20. [Insert Sales Order](./scripts/20-insert-sales-order.sql)
