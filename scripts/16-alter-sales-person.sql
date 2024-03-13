@@ -1,0 +1,1 @@
+ALTER TABLE sales_person ALTER COLUMN zip TYPE INTEGER;
