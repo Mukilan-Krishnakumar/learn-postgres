@@ -16,3 +16,4 @@
 14. [Alter Data Type](./scripts/14-alter-data-type.sql)
 15. [Insert Customers](./scripts/15-insert-customers.sql)
 16. [Alter Sales Person Table](./scripts/16-alter-sales-person.sql)
+17. [Insert Sales Person](./scripts/17-insert-sales-person.sql)
