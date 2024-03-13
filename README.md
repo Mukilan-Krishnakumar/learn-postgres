@@ -13,3 +13,5 @@
 11. [Alter Transaction Table](./scripts/11-alter-transaction-table.sql)
 12. [Insert Product Type Table](./scripts/12-insert-proudct-type.sql)
 13. [Insert Product Table](./scripts/13-insert-product-table.sql)
+14. [Alter Data Type](./scripts/14-alter-data-type.sql)
+15. [Insert Customers](./scripts/15-insert-customers.sql)
