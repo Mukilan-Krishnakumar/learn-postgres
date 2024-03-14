@@ -21,3 +21,4 @@
 19. [Alter Sales Order](./scripts/19-alter-sales-order.sql)
 20. [Insert Sales Order](./scripts/20-insert-sales-order.sql)
 21. [Insert Sales Item](./scripts/21-insert-sales-item.sql)
+22. [Discount Greater than 15%](./scripts/22-select-discount.sql)
