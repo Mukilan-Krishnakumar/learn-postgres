@@ -23,3 +23,4 @@
 21. [Insert Sales Item](./scripts/21-insert-sales-item.sql)
 22. [Discount Greater than 15%](./scripts/22-select-discount.sql)
 23. [Logical Operators](./scripts/23-logical-operators.sql)
+24. [Order By](./scripts/24-order-by.sql)
